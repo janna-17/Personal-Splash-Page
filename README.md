@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elegant Splash Page</title>
+    <title>Personal Splash Page</title>
     
     <style>
         /* 1. Global Styles */
@@ -14,7 +14,6 @@
         }
 
         body {
-            /* Elegant dark gradient background */
             background: radial-gradient(circle, #2c3e50 0%, #000000 100%);
             height: 100vh;
             display: flex;
@@ -24,7 +23,6 @@
             color: #d4af37; /* Soft Gold color */
         }
 
-        /* 2. Container Styling (The Card) */
         #splash-card {
             text-align: center;
             padding: 60px 40px;
